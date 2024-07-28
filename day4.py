@@ -35,12 +35,6 @@ def convolutional_kernel(A, B, kernel):
     return output_matrix
 
 
-def convolutional_kernel_33(A, B):
-    output_row, output_col, output_matrix = compute_output_matrix(A, B)
-    x = [0, 0, 0, 1, 1, 1, 2, 2, 2]
-    y = [0, 1, 2, 0, 1, 2, 0, 1, 2]
-
-
 A = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 B = [[2, 4], [1, 3]]
 C = [[1, 1, 1], [0, 0, 0], [1, 1, 1]]
