@@ -1,0 +1,21 @@
+Day Season Fog Rain Class
+Weekday Spring None None On_Time
+Weekday Winter None Slight On_Time
+Weekday Winter None None On_Time
+Holiday Winter High Slight Late
+Saturday Summer Normal None On_Time
+Weekday Autumn Normal None Very Late
+Holiday Summer High Slight On_Time
+Sunday Summer Normal None On_Time
+Weekday Winter High Heavy Very Late
+Weekday Summer None Slight On_Time
+Saturday Spring High Heavy Cancelled
+Weekday Summer High Slight On_Time
+Weekday Winter Normal None Late
+Weekday Summer High None On_Time
+Weekday Winter Normal Heavy Vary Late
+Saturday Autumn High Slight On_Time
+Weekday Autumn None Heavy On_Time
+Holiday Spring Normal Slight On_Time
+Weekday Spring Normal None On_Time
+Weekday Spring Normal Heavy On_Time
